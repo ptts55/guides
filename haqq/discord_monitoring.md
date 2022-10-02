@@ -78,3 +78,4 @@ nano ~/half-life/config.yaml
 ```
 halflife monitoring -f ~/half-life/config.yaml
 ```
+![Screenshot from 2022-02-16 11-38-00](https://user-images.githubusercontent.com/6722152/154333667-af823075-73fc-4d41-97ce-40432f3450ac.png)
